@@ -2,7 +2,7 @@ import Image from "next/image";
 import { FaLocationDot } from "react-icons/fa6";
 import { IoStar } from "react-icons/io5";
 
-function ProductCard({ disc }) {
+function ProductCard({ name, category, loc, total }) {
   return (
     <div className="border rounded-md w-full overflow-hidden">
       {/* gambar */}
@@ -12,23 +12,17 @@ function ProductCard({ disc }) {
           alt="Foto Produk"
           fill={true}
         />
-        {/* tag harga */}
-        {disc ?? (
-          <span className="absolute right-1 top-2 text-white bg-red-700 w-8 aspect-square rounded-full flex items-center justify-center text-sm">
-            20%
-          </span>
-        )}
       </div>
       {/* description */}
       <div className="mx-2">
-        <h3 className="text-xl font-semibold my-2">Nama Produk</h3>
+        <h3 className="text-lg font-semibold my-2">{name}</h3>
         <hr />
-        <p>Rp. 1.000.000,-</p>
+        <p>{category}</p>
         <p className="flex items-center gap-2 text-sm">
-          <FaLocationDot /> Lokasi
+          <FaLocationDot /> {loc}
         </p>
         <p className="flex items-center gap-2 text-sm">
-          <IoStar /> 5.0 | 1rb+ terjual
+          <IoStar /> 5.0 | {total} terjual
         </p>
       </div>
     </div>

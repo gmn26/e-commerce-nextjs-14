@@ -1,26 +1,7 @@
 import Link from "next/link";
 import CategoryListButton from "./CategoryListButton";
 
-function Navbar() {
-  const category = [
-    "All",
-    "Electronics",
-    "Fashion",
-    "Home & Garden",
-    "Health & Beauty",
-    "Sports & Outdoors",
-    "Toys & Hobbies",
-    "Automotive",
-    "Books & Media",
-    "Jewelry & Watches",
-    "Groceries",
-    "Furniture",
-    "Office Supplies",
-    "Pet Supplies",
-    "Arts & Crafts",
-    "Baby Products",
-  ];
-
+function Navbar({ category }) {
   return (
     <nav className="py-6 flex flex-col gap-8">
       <div className="flex justify-between items-center">
