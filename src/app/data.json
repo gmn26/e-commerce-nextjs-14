@@ -1,0 +1,128 @@
+[
+  {
+    "nama_produk": "Laptop Gaming XYZ",
+    "kategori_produk": "Elektronik",
+    "lokasi": "Jakarta",
+    "total_terjual": 150
+  },
+  {
+    "nama_produk": "Kamera DSLR ABC",
+    "kategori_produk": "Fotografi",
+    "lokasi": "Bandung",
+    "total_terjual": 80
+  },
+  {
+    "nama_produk": "Headphone Noise Cancelling",
+    "kategori_produk": "Aksesoris",
+    "lokasi": "Surabaya",
+    "total_terjual": 200
+  },
+  {
+    "nama_produk": "Smartphone Super X",
+    "kategori_produk": "Elektronik",
+    "lokasi": "Medan",
+    "total_terjual": 300
+  },
+  {
+    "nama_produk": "Kursi Ergonomis",
+    "kategori_produk": "Perabot",
+    "lokasi": "Jakarta",
+    "total_terjual": 120
+  },
+  {
+    "nama_produk": "Jam Tangan Sport",
+    "kategori_produk": "Aksesoris",
+    "lokasi": "Bali",
+    "total_terjual": 150
+  },
+  {
+    "nama_produk": "Buku Motivasi",
+    "kategori_produk": "Buku",
+    "lokasi": "Yogyakarta",
+    "total_terjual": 250
+  },
+  {
+    "nama_produk": "Sofa Modern",
+    "kategori_produk": "Perabot",
+    "lokasi": "Jakarta",
+    "total_terjual": 90
+  },
+  {
+    "nama_produk": "Ransel Backpack",
+    "kategori_produk": "Aksesoris",
+    "lokasi": "Semarang",
+    "total_terjual": 300
+  },
+  {
+    "nama_produk": "Kulkas Hemat Energi",
+    "kategori_produk": "Elektronik",
+    "lokasi": "Palembang",
+    "total_terjual": 70
+  },
+  {
+    "nama_produk": "Baju Olahraga",
+    "kategori_produk": "Pakaian",
+    "lokasi": "Jakarta",
+    "total_terjual": 500
+  },
+  {
+    "nama_produk": "Sepatu Sneakers",
+    "kategori_produk": "Sepatu",
+    "lokasi": "Bali",
+    "total_terjual": 400
+  },
+  {
+    "nama_produk": "Peralatan Dapur Set",
+    "kategori_produk": "Perabot",
+    "lokasi": "Bandung",
+    "total_terjual": 160
+  },
+  {
+    "nama_produk": "Minuman Energi",
+    "kategori_produk": "Makanan & Minuman",
+    "lokasi": "Medan",
+    "total_terjual": 220
+  },
+  {
+    "nama_produk": "Tablet Pembelajaran",
+    "kategori_produk": "Elektronik",
+    "lokasi": "Jakarta",
+    "total_terjual": 130
+  },
+  {
+    "nama_produk": "Kopi Lokal",
+    "kategori_produk": "Makanan & Minuman",
+    "lokasi": "Bali",
+    "total_terjual": 300
+  },
+  {
+    "nama_produk": "Pakaian Musim Panas",
+    "kategori_produk": "Pakaian",
+    "lokasi": "Yogyakarta",
+    "total_terjual": 250
+  },
+  {
+    "nama_produk": "Botol Air Stainless",
+    "kategori_produk": "Aksesoris",
+    "lokasi": "Jakarta",
+    "total_terjual": 350
+  },
+  {
+    "nama_produk": "Headset Gaming",
+    "kategori_produk": "Aksesoris",
+    "lokasi": "Surabaya",
+    "total_terjual": 180
+  },
+  {
+    "nama_produk": "Drone Kamera",
+    "kategori_produk": "Elektronik",
+    "lokasi": "Medan",
+    "total_terjual": 50
+  },
+  {
+    "nama_produk": "Bantal Tidur",
+    "kategori_produk": "Perabot",
+    "lokasi": "Jakarta",
+    "total_terjual": 230
+  }
+]
